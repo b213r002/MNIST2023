@@ -113,7 +113,7 @@ print("model : ", model)
 print("criterion : ", criterion)
 print("optimizer : ", optimizer)
 
-num_epoch = 30
+num_epoch = 10
 train_loss_list = []
 test_loss_list = []
 accuracy_rate_list = []
